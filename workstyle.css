@@ -93,12 +93,6 @@ nav ul li a.active, nav ul li a:hover{
     line-height: normal;
 }
 
-.typewrite:hover {
-    pointer-events: none;
-    text-decoration: none;
-    color: #f62e4b;
-}
-
 .iam-text, .hero-text {
     font-size: 34px;
     font-weight: 600;
