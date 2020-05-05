@@ -102,12 +102,12 @@ nav ul li a.active, nav ul li a:hover{
 .iam-text, .hero-text {
     font-size: 34px;
     font-weight: 600;
+    line-height: 50px;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .hero-text {
     margin-top: 34px;
-    line-height: 50px;
 }
 
 .iam-text .hero-title {
