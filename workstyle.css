@@ -89,6 +89,7 @@ nav ul li a.active, nav ul li a:hover{
 .iam-text {
     margin-top: 50px;
     /* overflow-y: hidden; */
+    line-height: normal;
 }
 
 .typewrite:hover {
