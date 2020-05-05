@@ -106,6 +106,7 @@ nav ul li a.active, nav ul li a:hover{
 
 .iam-text .hero-title {
     color: #f62e4b;
+    line-height: 50px;
 }
 
 /* HERO TEXT END */
