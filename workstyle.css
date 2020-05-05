@@ -25,7 +25,17 @@ label.logo {
     font-size: 20px;
     line-height: 80px;
     /* padding: 0 100px; */
+    text-decoration: none;
     font-weight: 600;
+}
+
+label.logo a {
+    color: #f62e4b;
+}
+
+label.logo a:hover {
+    color: #f62e4b;
+    text-decoration: none;
 }
 
 nav {
@@ -357,7 +367,4 @@ footer {
         width: 100%;
     }
 }
-
-
-
 
