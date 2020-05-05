@@ -78,6 +78,13 @@ nav ul li a.active, nav ul li a:hover{
 
 .iam-text {
     margin-top: 50px;
+    /* overflow-y: hidden; */
+}
+
+.typewrite:hover {
+    pointer-events: none;
+    text-decoration: none;
+    color: #f62e4b;
 }
 
 .iam-text, .hero-text {
