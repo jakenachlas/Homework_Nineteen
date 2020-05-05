@@ -9,7 +9,7 @@
 
 
 body {
-    font-family: sans-serif;
+    font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
     text-decoration: none;
     box-sizing: border-box;
@@ -25,7 +25,11 @@ label.logo {
     font-size: 20px;
     line-height: 80px;
     /* padding: 0 100px; */
-    font-weight: 400;
+    font-weight: 600;
+}
+
+nav {
+    font-weight: 600;
 }
 
 nav ul {
@@ -78,6 +82,7 @@ nav ul li a.active, nav ul li a:hover{
 
 .iam-text, .hero-text {
     font-size: 34px;
+    font-weight: 600;
 }
 
 .hero-text {
