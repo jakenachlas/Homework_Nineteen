@@ -148,13 +148,17 @@ nav ul li a.active, nav ul li a:hover{
     color: #1a1a1a;
 }
 
-.gridChild > img {
+.hvrbox {
+    position: relative;
+}
+
+.hvrbox > img {
     max-width: 100%;
     border-radius: 3px;
     transition: 0.3s ease-in-out;
 }
 
-.gridChild .hvrbox-layer_top {
+.hvrbox .hvrbox-layer_top {
     opacity: 0;
     position: absolute;
     top: 0;
@@ -173,12 +177,12 @@ nav ul li a.active, nav ul li a:hover{
     border-radius: 3px;
 }
 
-.gridChild:hover .hvrbox-layer_top,
-.gridChild.active .hvrbox-layer_top {
+.hvrbox:hover .hvrbox-layer_top,
+.hvrbox.active .hvrbox-layer_top {
 	opacity: 1;
 }
 
-.gridChild .hvrbox-text {
+.hvrbox .hvrbox-text {
     text-align: center;
     font-size: 27px;
     display: inline-block;
