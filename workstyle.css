@@ -192,6 +192,10 @@ nav ul li a.active, nav ul li a:hover{
 	transform: translate(-50%, -50%);
 }
 
+.gridChild .hvrbox-text.red {
+    color: #f62e4b;
+}
+
 
 
 /* .gridChild:hover {
