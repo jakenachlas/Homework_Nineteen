@@ -263,7 +263,8 @@ footer {
 .footer-text {
     color: #f62e4b;
     margin-top: 20px;
-    font-size: 14px;
+    font-size: 12px;
+    margin-bottom: 20px;
 }
 
 
